@@ -1,4 +1,4 @@
-# Snake Game Anime Girls
+# Snake Game Anime Girls — Chrome Extension
 
 A classic Snake game that runs directly in the Chrome browser popup, featuring anime-inspired backgrounds.
 
