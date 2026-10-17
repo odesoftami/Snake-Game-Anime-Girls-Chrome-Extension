@@ -1,0 +1,48 @@
+article, aside, details, figcaption, figure, footer, header,
+hgroup, menu, nav, section { 
+  display: block; 
+}
+html,body{
+  margin:0;
+  padding:0;
+  width:760px;
+  min-width:760px;
+  max-width:760px;
+  overflow:hidden;
+}
+body {
+  background-color: #fff;
+  color:#000;
+}
+
+canvas {
+  margin:0;
+  padding:0;
+  width:760px;
+  height:570px;
+  display: block;
+  background-image: url("../img/0.jpg");
+}
+
+#brand-footer {
+  box-sizing: border-box;
+  width: 760px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #171717;
+  border-top: 2px solid #f28c28;
+  font: 12px/1.2 Arial, Helvetica, sans-serif;
+}
+
+#brand-footer a {
+  color: #e6e6e6;
+  text-decoration: none;
+  letter-spacing: .2px;
+}
+
+#brand-footer a:hover, #brand-footer a:focus-visible {
+  color: #f28c28;
+  text-decoration: underline;
+}

@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_name__",
+  "short_name": "Snake Anime Game",
+  "description": "__MSG_desc__",
+  "version": "2026.10.17.0",
+  "default_locale": "en_US",
+  "action": {
+    "default_icon": {
+      "16": "img/16.png",
+      "48": "img/48.png",
+      "128": "img/128.png"
+    },
+    "default_popup": "popup.html",
+    "default_title": "__MSG_title__"
+  },
+  "icons": {
+    "16": "img/16.png",
+    "48": "img/48.png",
+    "128": "img/128.png"
+  }
+}
