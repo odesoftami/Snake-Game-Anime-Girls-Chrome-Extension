@@ -4,12 +4,7 @@
        width="100%">
 </p>
 
-<a href="https://chromewebstore.google.com/detail/snake-game-anime-girls-od/kogkkmbefbldpmadnkmjlhbccfnpeem?authuser=0&hl=ru">
-  <img
-    src="https://img.shields.io/badge/▶_PLAY_SNAKE_NOW-FF3CAC?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="Play Snake Game Anime Girls"
-  />
-</a>
+https://chromewebstore.google.com/detail/snake-game-anime-girls-od/kogkkmbefbldpmadnkmjlihbccfnpeem
 
 # Snake Game Anime Girls — Chrome Extension
 
